@@ -1,5 +1,3 @@
-Page 62
-
 ### Data Storage
 1. Bit - s the smallest unit of storage, representing a binary value of 0 or 1.
 2. Byte - is a collection of 8 bits. It represents 2^8 = 256 different values.
@@ -41,10 +39,3 @@ Eg - Linked Lists, Stacks, Queues, Priority Queues, Binary Trees, Dictionaries, 
 
 1. Recursion means calling a copy of itself (function) multiple times. It is often used in sorting and searching problems.
 2. 
-
-## Sorting Algorithms
-
-https://www.geeksforgeeks.org/sorting-algorithms/
-
-1. Selection Sort - 
-
