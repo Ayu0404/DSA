@@ -1,0 +1,11 @@
+Foundation
+NGR Nearest Greatest to Right
+NGL Nearest Greatest to Left
+NSR Nearest Smallest to Right
+SNL Nearest Smallest to Left
+
+Used in
+Stock Span - Nearest Greatest to Left
+7 Maximum Area Histogram - Nearest Smallest to Left and Right
+
+
